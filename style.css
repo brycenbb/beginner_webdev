@@ -1,8 +1,42 @@
 
 p {
     color: red;
+    font-weight: bold;
+    font-size: 300%;
+    text-decoration: overline
 }
 
 a {
     color: blue;
+
 }
+
+
+body {
+    font-size: 14px;
+    color: navy;
+}
+
+h2 {
+    background-color: coral;
+    font-size: 3em;
+    text-transform: capitalize;
+    margin: 20px;
+    padding: 40px;
+}
+
+h3{
+    margin: 30px;
+    padding: 40px;
+    background-color: darkgoldenrod;
+}
+
+h4 {
+    color:white;
+    border-style: dashed;
+    border-width: 3px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-color: red;
+}
+
