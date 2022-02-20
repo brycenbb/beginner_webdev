@@ -1,3 +1,9 @@
 blockquote {
     background-color: #000000;
 }
+
+.border {
+    border-radius: 25px;
+    background-color: white;
+    border-color: #3882F6;
+}
