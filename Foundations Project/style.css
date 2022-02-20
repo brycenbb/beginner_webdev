@@ -2,8 +2,20 @@ blockquote {
     background-color: #000000;
 }
 
-.border {
+/* .border {
     border-radius: 25px;
+    width: 200px;
+    height: 200px;
+    border: 50px;
+    padding: 20px;
     background-color: white;
     border-color: #3882F6;
+} */
+.header,
+.footer {
+    background-color: #1F2937;
+}
+
+body {
+    background-color: brown;
 }
